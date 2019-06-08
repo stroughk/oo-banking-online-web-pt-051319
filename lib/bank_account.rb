@@ -19,7 +19,7 @@ def display_balance
 end
 
 
-def valid?
+def valid?(@balance)
   if @balance > 0 
     true 
   else
