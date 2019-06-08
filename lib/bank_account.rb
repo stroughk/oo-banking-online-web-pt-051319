@@ -14,8 +14,8 @@ def deposit(amount)
   self.balance += amount 
 end 
 
-def display_balance
-  self.balance
+def display_balance(balance_amount)
+  self.balance_amount 
 end
 
 end
