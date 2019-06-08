@@ -11,7 +11,7 @@ def initialize(name, balance=1000)
 end 
 
 def deposit(amount)
-  
+  self.balance += amount
 end 
 
 end
