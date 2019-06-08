@@ -26,5 +26,5 @@ def valid?(@balance)
     false 
   end 
 end
-
+ 
 end
