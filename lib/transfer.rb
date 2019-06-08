@@ -1,7 +1,7 @@
 class Transfer
   
-  def initialize(amount)
-    @amount = amount
+  def initialize(sender)
+    @sender = sender 
   end 
   
 end
