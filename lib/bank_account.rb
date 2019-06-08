@@ -10,8 +10,8 @@ def initialize(name, balance=1000)
   @status = "open"
 end 
 
-def deposit 
-  
+def self.deposit 
+  deposit << self 
 end 
 
 end
