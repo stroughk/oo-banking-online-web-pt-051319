@@ -1,6 +1,6 @@
 class Transfer
   
-def initialize(Transfer)
+def initialize
   
 end 
   
